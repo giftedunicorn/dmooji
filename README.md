@@ -13,36 +13,47 @@
 
 ## 功能
 
-* 在YouTube上观看弹幕
-* 使用Google和Facebook注册登录后，可以发送弹幕。
+* 在`YouTube`上观看弹幕
+* 使用`Google`和`Facebook`注册登录后，可以发送弹幕。
 * 发送普通弹幕和高级弹幕。
-* 部分弹幕是从YouTube Comment里提取的，所以每个视频都有弹幕。
+* 部分弹幕是从`YouTube Comment`里提取的，所以每个视频都有弹幕。
 * 设置弹幕透明度，反重叠，显示区域，和调节弹幕速度和大小。
 
-## 链接
+## 使用方式
 
-主页地址 [Website](http://bit.ly/2CrBZfG)
+1. 前往 [Chrome Web Store](http://bit.ly/2CqA5Mz) 安装。
+2. 打开 [YouTube](https://www.youtube.com/watch?v=o-Qu8-ZGL14) 观看视频。
+3. 看到弹幕了吗？
+4. 点击右上角Dmooji插件按钮，使用`Google`或者`Facebook`账号登录。
+5. 登录后，视频下方输入弹幕，点击发送！
 
-下载地址 [Chrome Web Store](http://bit.ly/2CqA5Mz)
+## 相关链接
 
-本弹幕由 [Comment Core Library](https://github.com/jabbany/CommentCoreLibrary/edit/master/README.md) 支持
+> 主页地址 [Website](http://bit.ly/2CrBZfG)
 
-## Dmooji超酷的介绍视频
+> 下载地址 [Chrome Web Store](http://bit.ly/2CqA5Mz)
+
+> 本弹幕由 [Comment Core Library](https://github.com/jabbany/CommentCoreLibrary/edit/master/README.md) 支持
+
+## 演示视频
 
 [![dmooji demo](https://i.ytimg.com/vi/EUL8GMvgDn4/sddefault.jpg)](https://www.youtube.com/watch?v=EUL8GMvgDn4)
 
 ## TODOS
 
 * 支持 `Firefox`
-* 支持 `即时弹幕`
+* 支持即时弹幕
 * 支持 `Netflex` 上的视频弹幕
-* Dmooji `开源`
 
-## Author
+## 加入讨论
 
-**Dmooji弹幕君** © 
+* [Telegram Group](https://t.me/dmooji)
+* QQ群: 544233722 
+* 欢迎在`GitHub`上提出相关的`issue`
 
-> Feng Liu [GitHub](https://github.com/edward8628) · [Linkedin](https://www.linkedin.com/in/feng-liu-2866a586/) ·  [Telegram Group](https://t.me/dmooji)
+## 作者
+
+> Feng Liu [GitHub](https://github.com/edward8628) · [Linkedin](https://www.linkedin.com/in/feng-liu-2866a586/)
 
 > Zhang Zheng [Linkedin](https://www.linkedin.com/in/boscozhang/)
 
