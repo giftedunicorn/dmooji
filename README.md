@@ -33,7 +33,7 @@
 
 > 下载地址 [Chrome Web Store](http://bit.ly/2CqA5Mz)
 
-> 本弹幕由 [Comment Core Library](https://github.com/jabbany/CommentCoreLibrary/edit/master/README.md) 支持
+> 本弹幕由 [Comment Core Library](https://github.com/jabbany/CommentCoreLibrary) 支持
 
 ## 演示视频
 
