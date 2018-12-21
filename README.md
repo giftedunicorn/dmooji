@@ -1,4 +1,11 @@
-# [Dmooji弹幕君](https://www.dmooji.com)
+<p align="center">
+<img src="https://s3-us-west-1.amazonaws.com/dmooji-image/dmooji_logo.png" alt="ADPlayer" width="100">
+</p>
+<h1 align="center">Dmooji  弹幕君</h1>
+
+[![Chrome Web Store - Version](https://img.shields.io/chrome-web-store/v/dcacgbaadlgfnmcpjncoobionpjnbnih.svg?style=flat-square)](https://chrome.google.com/webstore/detail/dmooji-live-comments-danm/dcacgbaadlgfnmcpjncoobionpjnbnih)
+[![Chrome Web Store - Downloads](https://img.shields.io/chrome-web-store/d/dcacgbaadlgfnmcpjncoobionpjnbnih.svg?style=flat-square)](https://chrome.google.com/webstore/detail/dmooji-live-comments-danm/dcacgbaadlgfnmcpjncoobionpjnbnih)
+[![Chrome Web Store - Rating](https://img.shields.io/chrome-web-store/rating/dcacgbaadlgfnmcpjncoobionpjnbnih.svg?style=flat-square)](https://chrome.google.com/webstore/detail/dmooji-live-comments-danm/dcacgbaadlgfnmcpjncoobionpjnbnih)
 
 > #### 🍭 Dmooji弹幕君是一款给YouTube加弹幕的Chrome插件。
 
@@ -20,7 +27,6 @@
 
 本弹幕由 [Comment Core Library](https://github.com/jabbany/CommentCoreLibrary/edit/master/README.md) 支持
 
-
 ## Dmooji超酷的介绍视频
 
 [![dmooji demo](https://i.ytimg.com/vi/EUL8GMvgDn4/sddefault.jpg)](https://www.youtube.com/watch?v=EUL8GMvgDn4)
@@ -34,7 +40,10 @@
 
 ## Author
 
-**Dmooji弹幕君** © [Feng Liu](https://github.com/edward8628)
+**Dmooji弹幕君** © 
 
+> Feng Liu [GitHub](https://github.com/edward8628) · [Linkedin](https://www.linkedin.com/in/feng-liu-2866a586/) ·  [Telegram Group](https://t.me/dmooji)
 
-> [GitHub](https://github.com/edward8628) · [Linkedin](https://www.linkedin.com/in/feng-liu-2866a586/) ·  [Telegram Group](https://t.me/dmooji)
+> Zhang Zheng [Linkedin](https://www.linkedin.com/in/boscozhang/)
+
+<br>
