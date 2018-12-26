@@ -9,7 +9,7 @@
 
 > #### 🍭 Dmooji弹幕君是一款给YouTube加弹幕的Chrome插件。
 
-<p align="center"><img src="https://github.com/edward8628/dmooji/blob/master/anime.gif?raw=true" alt="Cimice" width="100%" align="center"/></p>
+<p align="center"><img src="https://github.com/edward8628/dmooji/blob/master/images/anime.gif?raw=true" alt="Cimice" width="100%" align="center"/></p>
 
 ## 功能
 
