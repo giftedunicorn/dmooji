@@ -21,10 +21,13 @@
 
 ## 技术
 
-* React
+* ReactJS
 * Chrome Extension
 * Material UI
 * Comment Core Library
+* Firebase
+* NodeJS
+* AWS
 
 ## 使用方式
 
