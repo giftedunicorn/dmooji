@@ -19,6 +19,13 @@
 * 部分弹幕是从`YouTube Comment`里提取的，所以每个视频都有弹幕。
 * 设置弹幕透明度，反重叠，显示区域，和调节弹幕速度和大小。
 
+## 技术
+
+* React
+* Chrome Extension
+* Material UI
+* Comment Core Library
+
 ## 使用方式
 
 1. 前往 [Chrome Web Store](http://bit.ly/2CqA5Mz) 安装。
